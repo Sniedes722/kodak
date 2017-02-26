@@ -1,4 +1,5 @@
 /.c9
 /.git
-/.venv
-/app
+/cloud-store/.venv
+/data
+/jobstore
