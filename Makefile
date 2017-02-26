@@ -1,4 +1,4 @@
-all: ./web-server/web-server ./rest-server/rest-server
+all: ./file-server/file-server ./rest-server/rest-server ./web-server/web-server
 
 %: %.cc
 	g++ -std=c++11 $< -o $@

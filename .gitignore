@@ -1,5 +1,6 @@
 /.c9
 /.git
-/cloud-store/.venv
+/dev
 /data
 /jobstore
+/python-clients
